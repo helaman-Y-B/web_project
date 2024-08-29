@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=SUSE:wght@100..800&display=swap');
+
+body {
+    margin: 0px;
+}
+
+h1 {
+    font-family: "SUSE", Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: "SUSE", Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: "Mulish", Arial, Helvetica, sans-serif; 
+}
+
+header {
+    display: flex;
+    background-color: #DD7373;
+    text-align: center;
+}
+
+header div {
+    display: flex;
+    margin: 5px;
+}
+
+nav {
+    background-color: #AC7B7D;
+    overflow: hidden;
+    font-family: "Mulish", Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+#toggle-menu-list {
+    display: block;
+}
+
+.nav-bar {
+    display: none;
+    text-decoration: none;
+}
+
+.web-name {
+    margin: 5px;
+    font-family: "SUSE", Arial, Helvetica, sans-serif;
+}
+
+.description {
+    margin: 10px;
+    background-color: #7698B3;
+}
+
+.description h1 {
+    margin: 10px;
+}
+
+.description p {
+    margin: 10px;
+}
+
+.hero-img {
+    width: 100%;
+    height: 70%;
+}
+

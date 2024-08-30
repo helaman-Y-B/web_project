@@ -52,6 +52,8 @@ nav {
 .description {
     margin: 10px;
     background-color: #7698B3;
+    text-align: center;
+    border-radius: 5px;
 }
 
 .description h1 {
@@ -65,5 +67,32 @@ nav {
 .hero-img {
     width: 100%;
     height: 70%;
+}
+
+.tutorial {
+    background-color: #7698B3;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+video {
+    max-width: fit-content;
+    margin: 10px;
+}
+
+#ready-to-go {
+    text-align: center;
+    background-color: #7698B3;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #DD7373;
+    font-family: "Mulish", Arial, Helvetica, sans-serif; 
+    padding: 5px;
+    text-align: center;
 }
 

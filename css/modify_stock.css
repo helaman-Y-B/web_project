@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=SUSE:wght@100..800&display=swap');
+
+body {
+    margin: 0px;
+    background-color: #FCEFEF;
+}
+
+h1 {
+    font-family: "SUSE", Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: "SUSE", Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: "Mulish", Arial, Helvetica, sans-serif; 
+}
+
+header {
+    display: flex;
+    background-color: #DD7373;
+    text-align: center;
+}
+
+header div {
+    display: flex;
+    margin: 5px;
+}
+
+nav {
+    background-color: #AC7B7D;
+    overflow: hidden;
+    font-family: "Mulish", Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+#toggle-menu-list {
+    display: block;
+}
+
+.nav-bar {
+    display: none;
+    text-decoration: none;
+}
+
+.web-name {
+    margin: 5px;
+    font-family: "SUSE", Arial, Helvetica, sans-serif;
+}
+
+main {
+    font-family: "Mulish", Arial, Helvetica, sans-serif;
+    margin: 10px;
+    background-color: #7698B3;
+}
+
+button {
+    background-color: #FCEFEF;
+}
+
+.stock-list {
+    margin: 10px;
+}
+
+#create-stock-button {
+    padding: 15px;
+    margin: 15px;
+}
+
+#stock-options {
+    display: grid;
+}
+
+.stock {
+    padding: 15px;
+    margin: 10px;
+    text-align: left;
+}
+
+footer {
+    background-color: #DD7373;
+    font-family: "Mulish", Arial, Helvetica, sans-serif; 
+    padding: 5px;
+    text-align: center;
+}
